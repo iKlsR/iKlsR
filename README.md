@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm a full stack developer as well as a technical and 3d generalist.
+I'm a full stack developer as well as a technical artist and 3d generalist
 
 ![](https://github-readme-stats.vercel.app/api?username=iKlsR&show_icons=true&count_private=true&theme=ayu-mirage&include_all_commits)
 
